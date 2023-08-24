@@ -20,7 +20,6 @@ function App() {
       </p>
 
        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, quam!</p>
-      
     </>
   );
 }
